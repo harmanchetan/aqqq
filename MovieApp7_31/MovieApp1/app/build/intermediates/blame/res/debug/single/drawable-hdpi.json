@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login.png",
+        "source": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\src\\main\\res\\drawable-hdpi\\login.png"
+    },
+    {
+        "merged": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\settings.png",
+        "source": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\src\\main\\res\\drawable-hdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\running.png",
+        "source": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\src\\main\\res\\drawable-hdpi\\running.png"
+    },
+    {
+        "merged": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\filter.png",
+        "source": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\src\\main\\res\\drawable-hdpi\\filter.png"
+    },
+    {
+        "merged": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search_.png",
+        "source": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\src\\main\\res\\drawable-hdpi\\search_.png"
+    },
+    {
+        "merged": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logout.png",
+        "source": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\src\\main\\res\\drawable-hdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\upcoming.png",
+        "source": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\src\\main\\res\\drawable-hdpi\\upcoming.png"
+    }
+]

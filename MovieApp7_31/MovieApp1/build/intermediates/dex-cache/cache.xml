@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\MovieApp7_31\MovieApp7_31\MovieApp1\app\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="C:\MovieApp7_31\MovieApp7_31\MovieApp1\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3_782b905c16c468c83b4339245b5f5c078d049d34.jar" />
+    </item>
+
+</items>

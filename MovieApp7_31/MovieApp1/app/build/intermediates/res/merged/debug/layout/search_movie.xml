@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_margin="5dp"
+        android:gravity="right" >
+
+        <EditText
+            android:id="@+id/edtsearch"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="Search Your Movie Here"
+            android:ems="10" >
+        </EditText>
+
+        <ImageView
+            android:id="@+id/imgbtnsearch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:src="@drawable/search_" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/listsearch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </ListView>
+
+    <TextView
+        android:id="@+id/txtnoresult"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="No Result Found"
+        android:visibility="gone"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+</LinearLayout>

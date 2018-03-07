@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\images.jpg",
+        "source": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\src\\main\\res\\drawable-hdpi\\images.jpg"
+    },
+    {
+        "merged": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\poster.jpg",
+        "source": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\src\\main\\res\\drawable-hdpi\\poster.jpg"
+    },
+    {
+        "merged": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background.jpg",
+        "source": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\src\\main\\res\\drawable-hdpi\\background.jpg"
+    }
+]

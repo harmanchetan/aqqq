@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home.xml",
+        "source": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_details.xml",
+        "source": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\src\\main\\res\\layout\\activity_details.xml"
+    },
+    {
+        "merged": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_list.xml",
+        "source": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\src\\main\\res\\layout\\row_list.xml"
+    },
+    {
+        "merged": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_movie.xml",
+        "source": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\src\\main\\res\\layout\\search_movie.xml"
+    },
+    {
+        "merged": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_xml.xml",
+        "source": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\src\\main\\res\\layout\\menu_xml.xml"
+    },
+    {
+        "merged": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_people_detail.xml",
+        "source": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\src\\main\\res\\layout\\activity_people_detail.xml"
+    },
+    {
+        "merged": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\upcoming.xml",
+        "source": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\src\\main\\res\\layout\\upcoming.xml"
+    },
+    {
+        "merged": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\signup.xml",
+        "source": "C:\\MovieApp7_31\\MovieApp7_31\\MovieApp1\\app\\src\\main\\res\\layout\\signup.xml"
+    }
+]
